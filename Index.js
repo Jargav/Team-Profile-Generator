@@ -5,4 +5,4 @@ const inquirer = require( "inquirer" );
 
 
 // Function call to initialize application.
-//init();
+init();
